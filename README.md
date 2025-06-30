@@ -12,8 +12,9 @@
 
 *MENTOR*:NEELA SANTOSH
 
-##DESCRIPTION OF TASK
-## Here's a concise breakdown of your **Web Technology Interactive Quiz** project including **Overview**, **Features**, **Technologies Used**, and **Tools Used** — perfect for adding to a README, documentation, or presentation:
+## DESCRIPTION OF TASK
+
+ Here's a concise breakdown of your **Web Technology Interactive Quiz** project including **Overview**, **Features**, **Technologies Used**, and **Tools Used** — perfect for adding to a README, documentation, or presentation:
 
 ---
 

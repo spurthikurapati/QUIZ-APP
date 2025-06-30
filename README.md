@@ -52,5 +52,5 @@ The **Web Technology Interactive Quiz** is a browser-based quiz application that
 * **GitHub** *(optional)* – for version control and hosting via GitHub Pages
 * **Notepad++ / Sublime Text** *(optional)* – alternate code editors for editing HTML/CSS/JS
 
-##output
+# output
 ![Image](https://github.com/user-attachments/assets/acd61931-67e8-440d-bbd2-9110c00d1fb9)
